@@ -2,7 +2,7 @@ import { createContext, useState } from "react";
 import Switch from "react-switch";
 /*-----------------------------------------------*/
 import Menu from './components/menu/menu';
-import Categories from './components/caegories/categories';
+import Categories from './components/categories/categories';
 import items from './components/data/data';
 /*-----------------------------------------------*/
 import './scss/styles.scss';
